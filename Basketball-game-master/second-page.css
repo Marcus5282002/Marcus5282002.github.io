@@ -1,0 +1,20 @@
+a{
+    background-color:white;
+    color:blue;
+}
+a:link{
+    text-decoration:none;
+}
+button{
+    width: 100px;
+    
+}
+h2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 175px;
+    margin-left: 175px;
+}
+p{
+    text-align:center;
+}
